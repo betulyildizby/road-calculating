@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Betül</h1>
-<h4 align="center">I am an computer science and engineering student and I am sharing my projects here. </h4>
+<h4 align="center">I am a computer science and engineering student and I am sharing my projects here. </h4>
 
 <!-- see my <a href="" target="_blank">resume</a> for more --> 
 </div>
